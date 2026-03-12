@@ -34,6 +34,24 @@ Running the executable walks through these scenarios, showcasing the **UI/UX des
 
 > Note: This is a **prototype for demonstration purposes** — it does not connect to a live backend.
 
+
 ---
 
-## Project Structure
+## Technology
+
+- **Language:** VB.NET  
+- **Framework:** .NET 6 (Windows Desktop)  
+- **IDE:** Visual Studio  
+
+---
+
+## Authors
+
+- Group Project for UI/UX class  
+- Developed collaboratively by [Your Group Names]
+
+---
+
+## License
+
+This project is for **educational purposes** only.
