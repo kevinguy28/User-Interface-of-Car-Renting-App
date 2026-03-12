@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccidentNotification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingRequestForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingRequestResponseForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarBookingControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CalendarBookingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarCarSelectForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarConfirmForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarDayControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CalendarDayForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarModifyForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarMonthControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CalendarRouteForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalendarSchedulingControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CalendarSchedulingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CallForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarCameraForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarDiagnosticForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarFeatureForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarListControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CarMediaForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRecallForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarRouteChangeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarStopForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChatForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChooseStationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DevForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmergencyContactForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmergencyForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExitCarForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IntrusionAlertForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LowBatteryNotificationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LowBatteryResponseForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RemoveBookedAvailabilityForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RescheduleNotification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RouteForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TechAlertForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TripOngoingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
